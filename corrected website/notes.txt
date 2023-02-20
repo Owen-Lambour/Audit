@@ -1,0 +1,20 @@
+SEO = Référencement Google, permet de voir le site en premier.
+
+HTML LANG = Sert a référencer le site en fonction de la langue parler par l'utilisateur, et permet traduction plus simple.
+
+Spam de keywords = mauvais pour le seo, et le référencement. Fait que google peut baisser le référencement.
+
+Meta description = petite Description faite quand vous naviguez dans google. Permet au référencement naturel,
+peut faire cliquer des visiteurs.
+
+Title = Permet de nommer l'onglet de la page actuel. Aide au référencement pour trouver le site.
+
+Keyword invisible = Mauvaise pratique, et pour le SEO, car  elle peut faire sauter le référencement.
+
+Toogle navigation = menu déroulant pour la navigation
+
+ALT : lecture du texte pour malvoyant
+
+Texte entre 2 div = mauvaise pratique non explicable pour moi, met n'est donc pas éditable.
+
+Attribut Title = Permet a la bonne navigation, et information complémentaires.
